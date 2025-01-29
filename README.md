@@ -1,11 +1,13 @@
 # Totem Interativo | Java - 3° Projeto | Universidade Paulista
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/galvessantos/projeto-consumo-javascript/blob/main/LICENSE) 
 
-# Sobre o projeto
-
 O tema da disciplina de Atividades Práticas Supervisionadas no terceiro semestre do curso de Ciência da Computação da Universidade Paulista trata de 'Robôs exploradores no planeta Marte'. Para o desenvolvimento do projeto, propusemos a integração desse tema com um modelo de totem interativo, inspirado em sistemas de autoatendimento, como os utilizados em fast foods, órgãos de saúde, entre outros.
 
-A construção do software foi feita inteiramente em Java, utilizando os conceitos e boas práticas da programação orientada a objetos. Falando um pouco sobre as telas da aplicação, temos:
+A construção do software foi feita inteiramente em Java, utilizando os conceitos e boas práticas da programação orientada a objetos.
+
+---
+
+## 🚀 Funcionalidades
 
 - Cadastro: Ao inserir seu nome e informar sua idade, o usuário tem uma experiência personalizada de acordo com essas informações.
 
@@ -19,7 +21,9 @@ A construção do software foi feita inteiramente em Java, utilizando os conceit
 
 - Resumo: Ao final, o programa exibirá mensagens personalizadas e um pequeno relatório, incluindo seu desempenho no quiz, a média de acertos e a avaliação geral de satisfação dos usuários.
 
-## Layout 
+---
+
+## 🔳 Layout 
 ![Image](https://github.com/user-attachments/assets/9296b3f6-c5b4-45ab-8d0e-10e625ef6386)
 ![Image](https://github.com/user-attachments/assets/0c1d65ca-308c-4626-ac70-f895f0a4bad9)
 ![Image](https://github.com/user-attachments/assets/e9b6b590-cca7-4268-b9fe-bcc51035c326)
@@ -29,8 +33,7 @@ A construção do software foi feita inteiramente em Java, utilizando os conceit
 ![Image](https://github.com/user-attachments/assets/f7a4a8bf-5d06-4b31-a2cb-1fcf2977c9e6)
 ![Image](https://github.com/user-attachments/assets/6cd54f63-dc63-480d-b0e6-ab23170258f4)
 
-
-
+---
 
 # Tecnologias utilizadas
 ## Back end
@@ -38,8 +41,18 @@ A construção do software foi feita inteiramente em Java, utilizando os conceit
   - Programação Orientada a Objetos
   - JDialog
   - List e Arraylist
+ 
+---
+ 
+## 📋 Pré-requisitos
+
+Antes de executar o projeto, você precisa ter instalado:
+
+- [Java JDK 11 ou superior](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
   
-# Como executar o projeto
+---
+  
+# 🏁 Como executar o projeto
 ```
   bash
 # clonar repositório
@@ -51,8 +64,9 @@ A construção do software foi feita inteiramente em Java, utilizando os conceit
 
 ```
 
+---
 
-# Autores
+# 🤝 Autores
 
 Gabriel Alves
 https://www.linkedin.com/in/galvessantos/
