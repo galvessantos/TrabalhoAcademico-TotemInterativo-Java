@@ -1,7 +1,8 @@
 # 👽 Totem Interativo 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/galvessantos/projeto-consumo-javascript/blob/main/LICENSE) 
 
-O tema da disciplina de Atividades Práticas Supervisionadas no terceiro semestre do curso de Ciência da Computação da Universidade Paulista trata de 'Robôs exploradores no planeta Marte'. Para o desenvolvimento do projeto, propusemos a integração desse tema com um modelo de totem interativo, inspirado em sistemas de autoatendimento, como os utilizados em fast foods, órgãos de saúde, entre outros.
+O tema da disciplina de Atividades Práticas Supervisionadas no terceiro semestre do curso de Ciência da Computação da Universidade Paulista trata de 'Robôs exploradores no planeta Marte'.
+Para o desenvolvimento do projeto, propusemos a integração desse tema com um modelo de totem interativo, inspirado em sistemas de autoatendimento, como os utilizados em fast foods, órgãos de saúde, entre outros.
 
 A construção do software foi feita inteiramente em Java, utilizando os conceitos e boas práticas da programação orientada a objetos.
 
